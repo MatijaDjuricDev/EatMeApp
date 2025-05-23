@@ -1,4 +1,4 @@
-# 🥫 Eat Me App
+# Eat Me App
 
 **Eat Me** is a mobile app designed to help users reduce food waste by tracking expiration dates and promoting smarter grocery habits.  
 Simple to use, minimal in design — and focused on saving both food and money.
